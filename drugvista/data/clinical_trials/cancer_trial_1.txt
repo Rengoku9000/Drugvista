@@ -1,0 +1,29 @@
+Clinical Trial: Phase III Combination Immunotherapy in Advanced Non-Small Cell Lung Cancer (CheckMate-227)
+
+Trial Design: Open-label, randomized study comparing nivolumab + ipilimumab vs chemotherapy
+Participants: 1,739 patients with stage IV NSCLC, no prior systemic therapy
+Primary Endpoint: Overall survival in patients with tumor mutational burden ≥10 mutations/megabase
+
+Results Summary:
+- Overall survival: 17.1 months (combination) vs 14.9 months (chemotherapy)
+- Hazard ratio: 0.79 (95% CI: 0.65-0.96, p=0.02)
+- 2-year survival rate: 40% vs 33%
+- Objective response rate: 36% vs 30%
+- Duration of response: 23.2 months vs 6.2 months
+
+Safety Profile:
+- Grade 3-4 treatment-related adverse events: 32.8% vs 36.0%
+- Treatment discontinuation: 18% vs 9%
+- Immune-related adverse events: 77% any grade, 31% grade 3-4
+- Most common: skin reactions (34%), diarrhea (26%), fatigue (26%)
+
+Biomarker Analysis:
+- TMB ≥10 mut/Mb: 44% of patients, greater benefit observed
+- PD-L1 expression: benefit regardless of expression level
+- Microsatellite instability: enhanced response in MSI-high tumors
+
+Regulatory Impact: Led to FDA approval for first-line NSCLC treatment
+Economic Analysis: Cost-effectiveness ratio $196,000 per QALY
+Market Penetration: 35% of eligible patients receive combination therapy
+
+Future Directions: Biomarker-driven patient selection, combination with targeted therapies

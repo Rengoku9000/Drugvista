@@ -1,0 +1,37 @@
+Clinical Trial: Phase I Dose-Escalation Study of Novel Kinase Inhibitor XYZ-123 in Advanced Solid Tumors
+
+Trial Design: Open-label, dose-escalation study using 3+3 design
+Participants: 42 patients with refractory solid tumors
+Dose Levels: 25, 50, 100, 200, 400, 600 mg twice daily
+Primary Endpoint: Maximum tolerated dose (MTD) and dose-limiting toxicities (DLTs)
+
+Dose-Limiting Toxicities:
+- 400 mg BID: Grade 3 diarrhea (2/6 patients)
+- 600 mg BID: Grade 3 hepatotoxicity (1/3), Grade 4 neutropenia (1/3)
+- MTD established: 200 mg BID
+- Recommended Phase II dose: 200 mg BID
+
+Safety Profile:
+- Most common AEs: diarrhea (76%), fatigue (67%), nausea (52%)
+- Grade 3-4 events: hepatotoxicity (12%), neutropenia (10%), thrombocytopenia (7%)
+- Hepatotoxicity pattern: Mixed hepatocellular-cholestatic injury
+- Onset: Median 28 days (range 14-56 days)
+- Reversibility: All hepatic events resolved within 4 weeks of discontinuation
+
+Pharmacokinetics:
+- Dose-proportional exposure up to 200 mg
+- Non-linear kinetics at higher doses suggesting saturation
+- Half-life: 8-12 hours supporting BID dosing
+- Food effect: 40% increase in AUC with high-fat meal
+
+Preliminary Efficacy:
+- Stable disease ≥16 weeks: 24% of patients
+- Partial response: 1 patient with BRAF-mutant melanoma
+- Target engagement confirmed by pharmacodynamic biomarkers
+
+Toxicology Insights:
+- Hepatotoxicity likely related to mitochondrial dysfunction
+- Neutropenia dose-dependent and reversible
+- No evidence of cardiac toxicity or QT prolongation
+
+Next Steps: Phase II expansion in selected tumor types at 200 mg BID with enhanced hepatic monitoring

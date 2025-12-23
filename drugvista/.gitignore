@@ -1,0 +1,40 @@
+# --- AWS ImpactX Challenge: DRUGVISTA ---
+
+# 1. Secret & Sensitive Data (CRITICAL)
+.env
+*.pem
+secrets.py
+credentials.json
+
+# 2. Local Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+build/
+dist/
+*.egg-info/
+
+# 3. GenAI & Data Specifics
+# Ignore large local datasets and generated vector indexes
+backend/faiss_index.bin
+backend/documents_metadata.json
+data/papers/*.pdf
+data/papers/*.txt
+!data/papers/sample.txt
+
+# 4. Streamlit & UI
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# 5. OS Specific
+.DS_Store
+Thumbs.db
+
+# 6. IDEs
+.vscode/
+.idea/
+.kiro/

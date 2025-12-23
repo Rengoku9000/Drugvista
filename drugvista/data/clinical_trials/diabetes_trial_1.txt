@@ -1,0 +1,33 @@
+Clinical Trial: Phase III Cardiovascular Outcomes Study of Semaglutide (SUSTAIN-6)
+
+Trial Design: Randomized, double-blind, placebo-controlled cardiovascular outcomes trial
+Participants: 3,297 patients with type 2 diabetes and high cardiovascular risk
+Primary Endpoint: Time to first occurrence of major adverse cardiovascular events (MACE)
+Follow-up Duration: Median 2.1 years
+
+Results Summary:
+- Primary MACE endpoint: 6.6% (semaglutide) vs 8.9% (placebo)
+- Hazard ratio: 0.74 (95% CI: 0.58-0.95, p=0.02 for superiority)
+- Cardiovascular death: 2.7% vs 2.8% (HR 0.98)
+- Non-fatal MI: 2.9% vs 3.9% (HR 0.74)
+- Non-fatal stroke: 1.6% vs 2.7% (HR 0.61)
+
+Glycemic Efficacy:
+- HbA1c reduction: -1.4% vs -0.4% (placebo)
+- Weight loss: -4.9 kg vs -1.0 kg (placebo)
+- Systolic BP reduction: -3.4 mmHg vs -0.5 mmHg
+
+Safety Profile:
+- Retinopathy complications: 3.0% vs 1.8% (HR 1.76, p=0.02)
+- Severe hypoglycemia: 2.4% vs 1.5%
+- Pancreatitis: 0.3% vs 0.1%
+- Gastrointestinal events: 39% vs 27%
+
+Mechanistic Insights:
+- Direct cardioprotective effects beyond glucose lowering
+- Improved endothelial function and reduced inflammation
+- Weight loss contributes to cardiovascular benefits
+
+Regulatory Impact: Strengthened cardiovascular indication for GLP-1 class
+Market Response: Increased adoption in high-risk diabetic patients
+Cost-Effectiveness: $50,000-$75,000 per QALY in high-risk populations

@@ -1,0 +1,43 @@
+Clinical Trial: Phase II Study of Gene Therapy for Duchenne Muscular Dystrophy (DMD-GT-001)
+
+Trial Design: Single-arm, open-label study of systemic gene therapy
+Participants: 24 boys aged 4-7 years with confirmed DMD mutations
+Intervention: Single IV infusion of AAV-microdystrophin vector
+Primary Endpoint: Change in North Star Ambulatory Assessment (NSAA) at 12 months
+
+Results Summary:
+- NSAA score improvement: +2.4 points vs historical decline of -1.8 points
+- Functional improvement in 83% of participants
+- Dystrophin expression: Detected in 92% of muscle biopsies
+- Mean dystrophin level: 41% of normal (range 15-74%)
+
+Safety Profile:
+- Transient elevation of liver enzymes: 67% (all resolved with steroids)
+- Complement activation: 25% (managed with prophylactic steroids)
+- No serious adverse events related to treatment
+- Transient thrombocytopenia: 17%
+- Myalgia and fatigue: 42% (resolved within 2 weeks)
+
+Biomarker Analysis:
+- Creatine kinase reduction: 65% decrease from baseline
+- Improved muscle fiber architecture on histology
+- Reduced inflammatory markers in muscle tissue
+- Functional dystrophin confirmed by immunofluorescence
+
+Long-term Follow-up (24 months):
+- Sustained functional improvement in 75% of patients
+- Continued dystrophin expression in repeat biopsies
+- No late-onset safety signals
+- Quality of life improvements reported by families
+
+Regulatory Pathway:
+- FDA granted Breakthrough Therapy designation
+- EMA PRIME eligibility confirmed
+- Accelerated approval pathway under consideration
+- Orphan drug status in US and EU
+
+Market Considerations:
+- Estimated treatment cost: $2-3 million per patient
+- Target population: ~6,000 eligible patients globally
+- Potential market size: $12-18 billion
+- Manufacturing capacity: Major bottleneck for commercialization

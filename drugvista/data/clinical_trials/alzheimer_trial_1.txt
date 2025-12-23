@@ -1,0 +1,24 @@
+Clinical Trial: Phase III Study of Lecanemab in Early Alzheimer's Disease (CLARITY-AD)
+
+Trial Design: Randomized, double-blind, placebo-controlled study
+Participants: 1,795 patients with early Alzheimer's disease (mild cognitive impairment or mild dementia)
+Primary Endpoint: Change in Clinical Dementia Rating-Sum of Boxes (CDR-SB) at 18 months
+
+Results Summary:
+- Primary endpoint met: 27% reduction in cognitive decline (p<0.001)
+- CDR-SB change: -1.21 (lecanemab) vs -1.66 (placebo)
+- ADCOMS score improved by 26% (p<0.001)
+- Amyloid PET reduction: 68.1% vs 3.6% (placebo)
+
+Safety Profile:
+- ARIA-E (brain swelling): 12.6% vs 1.7% (placebo)
+- ARIA-H (brain bleeding): 17.3% vs 9.0% (placebo)
+- Infusion reactions: 26.4% vs 7.4% (placebo)
+- Discontinuation rate: 6.9% vs 2.9% (placebo)
+
+Regulatory Status: FDA approved under accelerated pathway (January 2023)
+Market Impact: First anti-amyloid drug to show clinical benefit, despite modest effect size
+Cost Considerations: Annual treatment cost $26,500, plus monitoring expenses
+Next Steps: Post-market surveillance for long-term safety, real-world effectiveness studies
+
+Clinical Significance: Represents proof-of-concept for amyloid hypothesis, though clinical meaningfulness debated due to small effect size and safety concerns.
