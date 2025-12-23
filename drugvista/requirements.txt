@@ -11,3 +11,8 @@ requests>=2.25.0
 python-dotenv>=0.19.0
 PyPDF2>=3.0.0
 python-docx>=0.8.11
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
