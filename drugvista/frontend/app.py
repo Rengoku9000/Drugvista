@@ -44,6 +44,43 @@ st.markdown("""
 .proceed { background-color: #d4edda; color: #155724; }
 .investigate { background-color: #fff3cd; color: #856404; }
 .drop { background-color: #f8d7da; color: #721c24; }
+.confidence-high {
+    background: linear-gradient(90deg, #28a745, #20c997);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    box-shadow: 0 4px 6px rgba(40, 167, 69, 0.3);
+}
+.confidence-medium {
+    background: linear-gradient(90deg, #ffc107, #fd7e14);
+    color: #212529;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    box-shadow: 0 4px 6px rgba(255, 193, 7, 0.3);
+}
+.confidence-low {
+    background: linear-gradient(90deg, #dc3545, #e83e8c);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    box-shadow: 0 4px 6px rgba(220, 53, 69, 0.3);
+}
+.confidence-label {
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -133,6 +170,30 @@ def call_analyze_api(query):
 def display_results(result):
     """Display analysis results in structured format"""
     
+    # Confidence Score - Highlighted at the top, outside analysis box
+    confidence = result["confidence_score"]
+    confidence_pct = confidence * 100
+    
+    if confidence >= 0.7:
+        confidence_class = "confidence-high"
+        confidence_label = "HIGH CONFIDENCE"
+        confidence_icon = "✅"
+    elif confidence >= 0.5:
+        confidence_class = "confidence-medium"
+        confidence_label = "MEDIUM CONFIDENCE"
+        confidence_icon = "⚠️"
+    else:
+        confidence_class = "confidence-low"
+        confidence_label = "LOW CONFIDENCE"
+        confidence_icon = "❗"
+    
+    st.markdown(f"""
+    <div class="{confidence_class}">
+        {confidence_icon} {confidence_pct:.0f}% CONFIDENCE
+        <div class="confidence-label">{confidence_label} - {"Based on internal knowledge base" if confidence >= 0.5 else "Based on general AI knowledge"}</div>
+    </div>
+    """, unsafe_allow_html=True)
+    
     # Clinical Viability
     st.markdown("### 🔬 Clinical Insight")
     viability_color = {
@@ -174,7 +235,7 @@ def display_results(result):
     
     st.markdown(f"""
     <div class="recommendation-box {rec_class}">
-        {result["recommendation"]} (Confidence: {result["confidence_score"]*100:.0f}%)
+        {result["recommendation"]}
     </div>
     """, unsafe_allow_html=True)
     
